@@ -29,7 +29,11 @@ You can perform different analysis changing parameters such as:
 
 ## Contributing & Support
 
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements. If you want to support our work you can cite the paper, while if you are interested in collaborate with us, please write to **alex.piccioni@univaq.it** or contact the authors of the paper.
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements. If you want to cite the simulator, please use:
+
+<TBD>
+
+If you are interested in a collaboration, please write me (**alex.piccioni@univaq.it**) or contact my co-authors.
 
 ## License
 
