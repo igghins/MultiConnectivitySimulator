@@ -37,7 +37,7 @@ If you are interested in a collaboration, please write me (**alex.piccioni@univa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the <TBD> License - see the [<TBD>](<TBD>) file for details.
 
 ## Acknowledgments
 
