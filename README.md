@@ -38,7 +38,7 @@ If you are interested in a collaboration, please write me (**alex.piccioni@univa
 
 ## License
 
-This project is licensed under the MIT License - see the [MIT](MIT) file for details.
+This project is licensed under the MIT License - see the [MIT](https://choosealicense.com/licenses/mit/) file for details.
 
 ## Acknowledgments
 
