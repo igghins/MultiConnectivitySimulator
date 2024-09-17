@@ -32,7 +32,7 @@ You can perform different analysis changing parameters such as:
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements. If you want to cite the simulator, please use:
 
 - A. Piccioni, A. Marotta, C. Rinaldi and F. Graziosi, "_Enhancing Mobile Networks for Urban Air Mobility Connectivity,_" in **IEEE Networking Letters**, vol. 6, no. 2, pp. 110-114, June 2024, doi: 10.1109/LNET.2024.3390610.
-- A. Piccioni, A. Marotta, P. Di Marco and F. Graziosi, "_Performance Evaluation of Multi-Connectivity for Massive-URLLC in Emergency Scenarios_", SUBMITTED TO **2024 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM 2024)**.
+- A. Piccioni, A. Marotta, P. Di Marco and F. Graziosi, "_Performance Evaluation of Multi-Connectivity for Massive-URLLC in Emergency Scenarios_", ACCEPTED FOR PUBLICATION IN **2024 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM 2024)**.
 
 If you are interested in a collaboration, please write me (**alex.piccioni@univaq.it**) or contact my co-authors.
 
