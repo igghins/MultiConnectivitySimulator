@@ -1,6 +1,6 @@
 # Performance Evaluation Simulator for Cellular Multi-Connectivity in Emergency Scenarios
 
-This repository contains the MATLAB simulator and necessary files used for the performance evaluation described in the paper titled "_Performance Evaluation of Multi-Connectivity for Massive-URLLC in Emergency Scenarios_" submitted to the **2024 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM 2024)**.
+This repository contains the MATLAB simulator and necessary files used for the performance evaluation described in the paper titled "_Performance Evaluation of Multi-Connectivity for Massive-URLLC in Emergency Scenarios_" accepted for publication in the **2024 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM 2024)**.
 
 ## Overview
 
